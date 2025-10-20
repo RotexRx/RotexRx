@@ -1,16 +1,16 @@
-<h1 align="center">Hey there 👋, I'm <span style="color:#58a6ff;">Mehdi Khalighi</span></h1>
-<h3 align="center">💻 Backend Developer | Python Enthusiast | Open Source Explorer</h3>
+<h1 align="center">Hey there 👋, I'm <span style="color:#58a6ff;">Mehdi Khaleqi</span></h1>
+<h3 align="center">💻 FullStack Developer | C# And .Net Enthusiast | Clean Code Advocate | Lua Master </h3>
 
 ---
 
 ### 🧠 About Me
 
-I'm a passionate backend developer focused on building scalable APIs and automation tools.  
-I love solving real-world problems with **Python**, **FastAPI**, and **Docker**, and I'm always learning about **system design** and **DevOps**.
+I'm a full-stack developer passionate about designing clean, scalable, and efficient systems.  
+I work mostly with **C# / .NET Core**, **SQL Server**, and modern **frontend frameworks** like **React/Next**.  
+My main focus is on backend architecture, API design, and delivering smooth user experiences.
 
-💡 **Interests:** Backend Engineering, APIs, DevOps, Linux, and AI  
-🎯 **Goal:** Writing clean, maintainable, and efficient code  
-
+💡 **Interests:** Software architecture , security , and UI/UX integration  
+🎯 **Goal:** Build products that are both powerful and elegant.  
 ---
 
 ### 🧰 Tech Stack
