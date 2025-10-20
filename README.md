@@ -58,14 +58,6 @@ My main focus is on backend architecture, API design, and delivering smooth user
 
 ---
 
-### 🏆 Badges & Achievements
-
-- 🥇 Contributed to open-source FastAPI extensions  
-- 💡 Created Python automation tools used internally  
-- 🧠 Constant learner exploring AI integrations  
-
----
-
 ### 🌐 Connect With Me
 
 <div align="center">
