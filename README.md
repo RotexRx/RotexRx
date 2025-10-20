@@ -44,15 +44,6 @@ My main focus is on backend architecture, API design, and delivering smooth user
 </p>
 </div>
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Mehdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rotex2021rx&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rotex2021rx&layout=compact&theme=tokyonight)
-
-</div>
-
 ---
 
 ### 🏆 Badges & Achievements
