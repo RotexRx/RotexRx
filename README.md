@@ -44,33 +44,6 @@ My main focus is on backend architecture, API design, and delivering smooth user
 </p>
 </div>
 
----
-
-### 🚀 Featured Projects
-
-#### 🧩 **Smart Inventory**
-> Automated warehouse management system built with **FastAPI**, **PostgreSQL**, and **Redis**.  
-> Focused on performance and scalability.
-
-🔗 [View Repository](https://github.com/rotex2021rx/smart-inventory)
-
----
-
-#### 🤖 **AI Helper Bot**
-> A developer assistant bot powered by **Python** and **OpenAI API**, helping with coding tasks and API calls.  
-> Currently in active development!
-
-🔗 [View Repository](https://github.com/rotex2021rx/ai-helper-bot)
-
----
-
-#### ☁️ **Microservice Gateway**
-> Lightweight **API Gateway** built for microservices architecture with **FastAPI**, **Docker**, and **JWT Auth**.
-
-🔗 [View Repository](https://github.com/rotex2021rx/api-gateway)
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
