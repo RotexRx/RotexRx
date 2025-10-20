@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+
+
 <h1 align="center">Hey there 👋, I'm <span style="color:#58a6ff;">Mehdi Khaleqi</span></h1>
 <h3 align="center">💻 FullStack Developer | C# And .Net Enthusiast | Clean Code Advocate | Lua Master </h3>
 
